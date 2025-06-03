@@ -5,7 +5,7 @@
 | AI WhatIf              | [nightingale-aiwhatif](https://github.com/curatimeXai/nightingale-aiwhatif) | ai-whatif-v2-frontend, ai-whatif-v2-backend |         | ✅ Stable      |
 | Pollution Map          | [healthmap-pollutionmap](https://github.com/curatimeXai/healthmap-pollutionmap) | pollutionmap                            | Dalia, Antoine, Lorenzo, Nidhal, Carina, Ali   | 🛠️ In Progress |
 | World Heart Map        | [healthmap-worldhealthmap](https://github.com/curatimeXai/healthmap-worldhealthmap) | CardioVascular (branch `dalia`)         | Dalia            | ✅ Stable      |
-| Cardiomegaly CNN       | [healthview-cardiomegaly-cnn](https://github.com/curatimeXai/healthview-cardiomegaly-cnn) | cardiovascular_cnn_backend_alt, ...frontend_alt | —      | ✅ Stable      |
+| Cardiomegaly CNN       | [healthview-cardiomegaly-cnn](https://github.com/curatimeXai/healthview-cardiomegaly-cnn) | cardiovascular_cnn_backend_alt, ...frontend_alt | —      | 🛠️ In Progress |
 | HeartCluster           | [nightingale-heart-cluster](https://github.com/curatimeXai/nightingale-heart-cluster) | Heart_clusters_backend, ..._frontend    | Axel M. (code)   | ✅ Stable      |
 | Heart Quiz             | [healthview-echogame](https://github.com/curatimeXai/healthview-echogame) | quiz_game                                | Intisar, Shevin           | ✅ Stable      |
 | HarmoniaHealthAI       | [nightingale-harmoniahealth](https://github.com/curatimeXai/nightingale-harmoniahealth) | HarmoniaHealthAI_backend, ...frontend   | —                | ✅ Stable      |
