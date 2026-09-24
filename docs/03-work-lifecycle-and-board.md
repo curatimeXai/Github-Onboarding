@@ -38,3 +38,4 @@ Assign yourself (`Assignee`), update the item to `In Progress`, and open a corre
 ### **Invalid / Superseded Items**
 Items identified as duplicate, unreproducible, obsolete, or functioning as designed move to Invalid and are closed with an explanatory rationale.
 
+---
