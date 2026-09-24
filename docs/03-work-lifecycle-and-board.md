@@ -1,6 +1,5 @@
 # Work Lifecycle & Board Execution
-Whether your project operates via fixed iterations (Sprints) or continuous flow (Kanban),  
-items follow a standardized lifecycle across the project board:  
+Whether your project operates via fixed iterations (Sprints) or continuous flow (Kanban), items follow a standardized lifecycle across the project board:  
 
 ---
 
