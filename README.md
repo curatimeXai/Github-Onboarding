@@ -1,4 +1,4 @@
-# 🫀 MLThrive
+# 💊🫀 MLThrive 🏫📕
 
 Welcome to the central hub of the **Machine Learn Thrive** project, led by Johannes Gutenberg University Mainz.
 
