@@ -6,7 +6,7 @@ Always branch off main/master (or the repository's designated default branch) us
   - Chores / Maintenance: chore/#<id>-short-description
 
 **Local Pre-Flight Checks:**
-Run test suites, type-checkers, and linters locally before pushing changes.
+* Run test suites, type-checkers, and linters locally before pushing changes.
 
 **Pull Request Protocol:**
   - Summarize the architectural or functional change.
