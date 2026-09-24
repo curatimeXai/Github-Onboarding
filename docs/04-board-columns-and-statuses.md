@@ -2,7 +2,7 @@
 
 ---
 
-| **Column** | **Description & Workflow Role** |
+| **COLUMN** | **DESCRIPTION & WORKFLOW ROLE** |
 | :--- | :--- |
 | **Backlog** | Ingestion pool. All newly created, triaged issues and tasks reside here awaiting prioritization. |
 | **Ready** | Committed work scope. Well-defined work items ready to be picked up immediately. |
