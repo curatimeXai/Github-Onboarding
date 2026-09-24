@@ -15,7 +15,7 @@ Whether your project operates via fixed iterations (Sprints) or continuous flow 
 
 ---
 
-**Active Development**
+**Active Development**  
 Assign yourself (`Assignee`), update the item to `In Progress`, and open a corresponding branch.
 
 ---
