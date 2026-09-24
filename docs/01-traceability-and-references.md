@@ -18,3 +18,4 @@ Reference the issue ID in commit messages:
   * `feat(#183): implement dark mode toggle`
   * `fix(#182): resolve sqlite dialect compatibility in /db-check`
 
+---
