@@ -1,4 +1,7 @@
 # Submitting Work Items
+
+---
+
 ## Reporting a Bug
 **1.** Open the repository, select Issues, and click New Issue -> Bug Report.  
   
@@ -16,6 +19,7 @@
   
 **4.** Issue Type: Set to Bug to activate pinned classification fields (severity).
 
+---
 
 ## Creating a Task or Feature Request
 **1.** Open the repository, select Issues, and click New Issue -> Feature / Task (or Blank Issue).
