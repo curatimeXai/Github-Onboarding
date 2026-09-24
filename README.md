@@ -38,5 +38,5 @@ Git branching conventions, bug reporting, and project board management.
 
 For any questions, feel free to open an issue or contact the project coordinator.
 
-Lovisa Blomster - lovisablomster@gmail.com 
+Lovisa Blomster - lovisablomster@gmail.com  
 *The MLthrive Team*
