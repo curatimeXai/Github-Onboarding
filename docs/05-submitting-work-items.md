@@ -30,3 +30,5 @@
    - Context / Value: High-level summary of the requirement and its objective.
    - Acceptance Criteria (AC): Concrete, measurable conditions required for sign-off.
    - Technical Details (Optional): Impacted endpoints, schema migrations, or external libraries.
+
+---
