@@ -1,12 +1,8 @@
 # Git & Branching Strategy
 **Branch Naming Standard:** 
-
 Always branch off main/master (or the repository's designated default branch) using structured prefixes:
-
 • Features: feature/#<id>-short-description (e.g., feature/#183-new-login-ui)
-
 • Bug Fixes: fix/#<id>-short-description (e.g., fix/#182-db-check-sqlite-crash)
-
 • Chores / Maintenance: chore/#<id>-short-description
 
 
