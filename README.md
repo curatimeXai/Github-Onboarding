@@ -1,73 +1,41 @@
-# 🫀 Nightingale – AI Health Demonstrations Portal
+# 🫀 MLThrive
 
-Welcome to the central hub of the **Nightingale** project, led by Johannes Gutenberg University Mainz.  
-This repository provides a **structured and centralized index** for all publicly available **AI-driven health demos** under the Nightingale initiative.
+Welcome to the central hub of the **Machine Learn Thrive** project, led by Johannes Gutenberg University Mainz.
 
-> ⚠️ This repository contains **no code**. Each demo is hosted in its own dedicated GitHub repository. This portal is designed to help navigate, document, and maintain the ecosystem of Nightingale demos efficiently.
-
----
-
-## 📂 Repository Structure
-
-```
-nightingale-demos/
-│
-├── README.md            ← Project overview and navigation guide
-├── DEMOS_OVERVIEW.md    ← Master list of demos with links, contacts, and status
-├── CONTRIBUTING.md      ← Contribution rules and naming conventions
-└── /assets              ← Visual assets (screenshots, logos, mockups)
-```
+This repository defines the development and QA standards across all repositories, including task tracking, 
+Git branching conventions, bug reporting, and project board management.
 
 ---
 
-## 🔗 Explore Active Demos
+## Quick Navigation
 
-To explore all active and archived demos:  
-➡️ Refer to [`DEMOS_OVERVIEW.md`](./DEMOS_OVERVIEW.md)
-
-You'll find:
-- 🔗 Direct links to the corresponding GitHub repositories  
-- 👥 Developer or maintainer contact names  
-- 📈 Current development status (e.g., Stable, In Progress, Deprecated)
-
----
-
-## 📚 Contributing
-
-If you're updating links, adding a new demo, or modifying contributor info:  
-➡️ Read [`CONTRIBUTING.md`](./CONTRIBUTING.md)
-
-Includes:
-- Repository naming conventions (`nightingale-[demo-name]`)
-- How to properly update the demo list
-- Documentation quality standards
+|                             **Section**                                          |                       **Topic**                                 | **Primary Audience** |
+| **[1. Traceability & References](docs/01-traceability-and-references.md)**   | Single source of truth, Issue IDs, and PR linking keywords. | Developers & QA  |
+| **[2. Git & Branching Strategy](docs/02-git-and-branching.md)**              | Branch conventions, pre-flight checks, and PR guidelines.   | Developers       |
+| **[3. Work Lifecycle & Execution](docs/03-work-lifecycle-and-board.md)**     | End-to-end task progression (Sprints & Kanban).             | All team members |
+| **[4. Board Columns & Definitions](docs/04-board-columns-and-statuses.md)**  | Status mapping from Backlog to Done/Invalid.                | All team members |
+| **[5. Submitting Work Items](docs/05-submitting-work-items.md)**             | How to report bugs and create feature requests/tasks.       | QA & Developers  |
 
 ---
 
-## 🗂️ /assets – Shared Resources
+## Core Principles at a Glance
 
-This folder contains **non-code assets** used across demos and documentation, such as:
-
-- 🧾 **Documentation templates** (e.g., demo README format, contribution guide)
-- 🖼️ **Visual materials** like logos, diagrams, or mockups
-
-These assets help maintain a consistent and professional presentation across the Nightingale project.
+* **Issue ID as Single Source of Truth:** Never create manual IDs. Reference the GitHub Issue number (`#<id>`) in commits, PRs, and chats.
+* **Shift-Left Quality:** Run local linters, type checks, and tests before pushing code.
+* **Traceable Commits & Closures:** Always use closing keywords in PRs (e.g., `Closes #182` or `Fixes #182`) to keep boards synchronized automatically.
+* **Verified Deliveries:** Work is only moved to `Done` once verified by QA against reproduction steps or Acceptance Criteria.
 
 ---
 
-## 🙌 Purpose
+## Getting Started
 
-This repository is designed to:
-- Serve as a **knowledge map** for all contributors and stakeholders
-- **Ease onboarding** of new team members
-- Provide a **clean public-facing structure** of Nightingale's demo suite
-- Enable **scalable and sustainable** management of demo projects
-
+1. **Working on a task?** Review [Git & Branching Strategy](docs/02-git-and-branching.md) for branch naming conventions.
+2. **Reporting an issue?** Check [Submitting Work Items](docs/05-submitting-work-items.md) to ensure mandatory fields are filled out.
+3. **Updating the board?** Consult [Board Columns & Definitions](docs/04-board-columns-and-statuses.md) for column transition rules.
 ---
+
 
 For any questions, feel free to open an issue or contact the project coordinator.
 
-Antoine Montaut - antoine.montaut@hotmail.com
-
-—  
-*The Nightingale Team*
+Lovisa Blomster - lovisablomster@gmail.com 
+*The MLthrive Team*
