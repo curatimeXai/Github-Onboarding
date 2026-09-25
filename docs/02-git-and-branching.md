@@ -23,3 +23,9 @@ Run test suites, type-checkers, and linters locally before pushing changes.
 
 ---
 
+### **Merging into main/master**
+When all automated checks and tests have passed:
+  - Merge the Pull Request into main/master.
+  - Delete the PR branch (both locally and on GitHub).
+
+---
