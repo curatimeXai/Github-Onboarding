@@ -5,7 +5,7 @@
 ### **Branch Naming Standard** 
 Always branch off `main/master` (or the repository's designated default branch) using structured prefixes:
   - Features: `feature/#<id>-short-description` (e.g., `feature/#182-new-login-ui`)
-  - Bug Fixes: `fix/#<id>-short-description` (e.g., `fix/#183-db-check-sqlite-crash`)
+  - Bug Fixes: `bugfix/#<id>-short-description` (e.g., `bugfix/#183-db-check-sqlite-crash`)
   - Chores / Maintenance: `chore/#<id>-short-description` (e.g., `chore/#184-update-documentation`)
 
 ---
