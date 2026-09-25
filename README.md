@@ -1,6 +1,6 @@
 # 💊🫀 MLThrive 🏫📕
 
-Welcome to the central hub of the **Machine Learn Thrive** project, led by Johannes Gutenberg University Mainz.
+Welcome to the central hub of the **Machine Learning Thrive** project, led by Johannes Gutenberg University Mainz.
 
 This repository defines the development and QA standards across all repositories, including task tracking, 
 Git branching conventions, bug reporting, and project board management.
